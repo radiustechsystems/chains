@@ -15,7 +15,7 @@
   "icon": "rad",
   "explorers": [
     {
-      "name": "Radius Testnet Explorer",
+      "name": "Radius Network Testnet Explorer",
       "url": "https://testnet.radiustech.xyz",
       "standard": "none"
     }
