@@ -1,5 +1,5 @@
 {
-  "name": "Radius Network",
+  "name": "Radius Network Testnet",
   "chain": "RAD",
   "rpc": ["https://rpc.testnet.radiustech.xyz"],
   "faucets": [],
@@ -16,7 +16,7 @@
   "explorers": [
     {
       "name": "Radius Testnet Explorer",
-      "url": "https://testnet.radiustech.xyz/testnet/explorer",
+      "url": "https://testnet.radiustech.xyz",
       "standard": "none"
     }
   ],
