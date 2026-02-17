@@ -7630,6 +7630,19 @@
   "faucets": [],
   "infoURL": "https://metacces.com"
 }, {
+  "name": "Irys Testnet V1",
+  "chainId": 1270,
+  "shortName": "irys-testnet-v1",
+  "networkId": 1270,
+  "nativeCurrency": {
+    "name": "Irys",
+    "symbol": "IRYS",
+    "decimals": 18
+  },
+  "rpc": ["https://testnet-rpc.irys.xyz/v1/execution-rpc", "https://testnet-rpc-2.irys.xyz/v1/execution-rpc"],
+  "faucets": [],
+  "infoURL": "https://irys.xyz"
+}, {
   "name": "HALO Mainnet",
   "chainId": 1280,
   "shortName": "HO",
@@ -11682,7 +11695,7 @@
     "symbol": "IRYS",
     "decimals": 18
   },
-  "rpc": ["https://mainnet-beta-rpc.irys.xyz/v1/execution-rpc"],
+  "rpc": ["https://mainnet-beta-rpc.irys.xyz/v1/execution-rpc", "https://mainnet-beta-rpc-2.irys.xyz/v1/execution-rpc"],
   "faucets": [],
   "infoURL": "https://irys.xyz"
 }, {
@@ -20825,6 +20838,32 @@
   "faucets": [],
   "infoURL": "https://adifoundation.ai"
 }, {
+  "name": "AMA Testnet",
+  "chainId": 36968,
+  "shortName": "AMA-TESTNET",
+  "networkId": 36968,
+  "nativeCurrency": {
+    "name": "AMA",
+    "symbol": "AMA",
+    "decimals": 9
+  },
+  "rpc": ["https://testnet-rpc.ama.one"],
+  "faucets": ["https://mcp.ama.one/testnet-faucet"],
+  "infoURL": "https://ama.one"
+}, {
+  "name": "AMA Mainnet",
+  "chainId": 36969,
+  "shortName": "AMA",
+  "networkId": 36969,
+  "nativeCurrency": {
+    "name": "AMA",
+    "symbol": "AMA",
+    "decimals": 9
+  },
+  "rpc": ["https://mainnet-rpc.ama.one"],
+  "faucets": [],
+  "infoURL": "https://ama.one"
+}, {
   "name": "Lens Testnet",
   "chainId": 37111,
   "shortName": "lens-sepolia",
@@ -26219,6 +26258,19 @@
   "rpc": ["https://testnet-rpc.juchain.org", "wss://testnet-ws.juchain.org"],
   "faucets": [],
   "infoURL": "https://www.juchain.org"
+}, {
+  "name": "Ronin Saigon Testnet",
+  "chainId": 202601,
+  "shortName": "ronin-saigon",
+  "networkId": 202601,
+  "nativeCurrency": {
+    "name": "Ronin",
+    "symbol": "RON",
+    "decimals": 18
+  },
+  "rpc": ["https://saigon-testnet.roninchain.com/rpc", "https://ronin-saigon.drpc.org"],
+  "faucets": ["https://faucet.roninchain.com/"],
+  "infoURL": "https://roninchain.com"
 }, {
   "name": "Jellie",
   "chainId": 202624,
