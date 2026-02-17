@@ -23126,6 +23126,19 @@
   "faucets": ["https://faucet.nexera.network"],
   "infoURL": "https://testnet.nexera.network"
 }, {
+  "name": "Radius Network Testnet",
+  "chainId": 72344,
+  "shortName": "rad",
+  "networkId": 72344,
+  "nativeCurrency": {
+    "name": "Radius USD",
+    "symbol": "RUSD",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.testnet.radiustech.xyz"],
+  "faucets": [],
+  "infoURL": "https://radiustech.xyz"
+}, {
   "name": "CAGA crypto Ankara testnet",
   "chainId": 72778,
   "shortName": "caga",

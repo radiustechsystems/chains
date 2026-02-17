@@ -1778,6 +1778,7 @@
   "gw-testnet-v1": "eip155:71401",
   "gw-mainnet-v1": "eip155:71402",
   "nxra-testnet": "eip155:72080",
+  "rad": "eip155:72344",
   "caga": "eip155:72778",
   "caga-mainnet": "eip155:72888",
   "GrokChain": "eip155:72992",
