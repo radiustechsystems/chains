@@ -3,6 +3,7 @@
   "chain": "RADIUS",
   "rpc": ["https://rpc.testnet.radiustech.xyz"],
   "faucets": ["https://testnet.radiustech.xyz/testnet/faucet"],
+
   "nativeCurrency": {
     "name": "Radius USD",
     "symbol": "RUSD",
@@ -16,8 +17,8 @@
   "slip44": 1,
   "explorers": [
     {
-      "name": "Radius Testnet Dashboard",
-      "url": "https://dashboard.radiustech.xyz",
+      "name": "Radius Testnet Explorer",
+      "url": "https://testnet.radiustech.xyz",
       "standard": "none"
     }
   ],
