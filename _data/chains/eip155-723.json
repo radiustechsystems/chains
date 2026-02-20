@@ -1,5 +1,5 @@
 {
-  "name": "Radius",
+  "name": "Radius Network",
   "chain": "RADIUS",
   "rpc": ["https://rpc.radiustech.xyz"],
   "faucets": [],
@@ -8,15 +8,15 @@
     "symbol": "RUSD",
     "decimals": 18
   },
-  "infoURL": "https://radiustech.xyz",
+  "infoURL": "https://network.radiustech.xyz/",
   "shortName": "radius",
   "chainId": 723,
   "networkId": 723,
   "icon": "rad",
   "explorers": [
     {
-      "name": "Radius Explorer",
-      "url": "https://explorer.radiustech.xyz",
+      "name": "Radius Network Explorer",
+      "url": "https://network.radiustech.xyz/",
       "standard": "none"
     }
   ],
