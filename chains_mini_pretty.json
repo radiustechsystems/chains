@@ -5342,6 +5342,19 @@
   "faucets": [],
   "infoURL": "https://lycanchain.com"
 }, {
+  "name": "Radius Network",
+  "chainId": 723,
+  "shortName": "radius",
+  "networkId": 723,
+  "nativeCurrency": {
+    "name": "Radius USD",
+    "symbol": "RUSD",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.radiustech.xyz"],
+  "faucets": [],
+  "infoURL": "https://network.radiustech.xyz/"
+}, {
   "name": "Blucrates",
   "chainId": 727,
   "shortName": "blu",
@@ -23165,9 +23178,9 @@
   "faucets": ["https://faucet.nexera.network"],
   "infoURL": "https://testnet.nexera.network"
 }, {
-  "name": "Radius Network Testnet",
+  "name": "Radius Test Network",
   "chainId": 72344,
-  "shortName": "rad",
+  "shortName": "radius-network-testnet",
   "networkId": 72344,
   "nativeCurrency": {
     "name": "Radius USD",
@@ -23175,8 +23188,8 @@
     "decimals": 18
   },
   "rpc": ["https://rpc.testnet.radiustech.xyz"],
-  "faucets": [],
-  "infoURL": "https://radiustech.xyz"
+  "faucets": ["https://testnet.radiustech.xyz/wallet/"],
+  "infoURL": "https://testnet.radiustech.xyz"
 }, {
   "name": "CAGA crypto Ankara testnet",
   "chainId": 72778,
